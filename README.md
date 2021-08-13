@@ -9,7 +9,7 @@ Dragon 9th child
 
 ## Dockerfile Parser One Picture Architecture
 
-![Dockerfile Parser](assets/dockerfile-parser-architecture.svg)
+![Dockerfile Parser](assets/dockerfile-parser-architecture-v2.svg)
 
 ## Image Builder One Picture Architecture
 
